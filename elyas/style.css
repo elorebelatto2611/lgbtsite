@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ec913c;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+
+
+.bandeira{
+    width: 700px;
+    height: 425px;
+   
+}
+
+
+footer {
+    background-color: #c21d99;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    
+    bottom: 0;
+    width: 100%;
+}
+#história{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+p{
+    font-size: 20px;
+}
